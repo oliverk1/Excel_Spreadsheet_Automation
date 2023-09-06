@@ -1,0 +1,3 @@
+These programs are designed to automate the process of managing a stock of fobs for a building including who has access to which fobs.
+A GUI is used to make this a quick and simple process and is built to input automatically into the existing spreadsheets used by the company.
+A list of companies is used to make it easy to ammend which companies occupy the office space within the building as this can be highly versatile.
